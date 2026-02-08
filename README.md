@@ -3,7 +3,7 @@
 Este repositorio contiene mi tesis y el código fuente desarrollado para mi trabajo de titulación.
 
 ## Estructura de la Investigación
-El proyecto está dividido en 5 módulos que reflejan el avance metodológico de la tesis:
+El trabajo abarca distintos problemas bajo el mismo algoritmo que reflejan el avance metodológico de la tesis:
 
 * **01. Clasificación Binaria:** Recreación de los resultados (Higham & Higham) y mejoras, así como evaluación del modelo.
 * **02. Clasificación Multiclase:** Evolución del entrenamiento de clases binarias a multiclases.
