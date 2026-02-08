@@ -12,7 +12,7 @@ El trabajo abarca distintos problemas bajo el mismo algoritmo que reflejan el av
 * **05. PINNs (EDOs):** Resolución de ecuaciones diferenciales integrando leyes físicas en la función de costo.
 
 ## Implementación Técnica
-Todos los problemas fueron desarrollados sin utilizar librerias especializadas en ambiente **Python** y ejecutados en el entorno de **Google Colab** para aprovechar el procesamiento por GPU, asegurando que los modelos de mayor complejidad (como las PINNs) converjan de manera eficiente, despues comparar los resultados con su contaparte utilizando librerias especializadas.
+Todos los problemas fueron desarrollados sin utilizar librerias especializadas en ambiente **Python** y ejecutados en el entorno de **Google Colab** para aprovechar el procesamiento por GPU, despues se pueden comparar los resultados con su contaparte utilizando librerias especializadas.
 
 ---
 *Este repositorio es parte integral de la tesis presentada por López Pérez Olin Tonatiuh para obtener el título de Lic. en Ingeniería Matemática.*
