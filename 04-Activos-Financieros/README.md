@@ -1,0 +1,3 @@
+# 04. Líneas de tiempo en activos financieros (Interpolación y Extrapolación)
+
+En este problema se aterriza la aproximación de funciones a datos reales de activos financieros, a diferencia del problema anterior que se conocía la función en este caso solo conocemos los datos del valor del activo en un lapso de tiempo, y para poder pronosticar (extrapolación) utilizamos el método de ventanas deslizantes y usamos el pronóstico de la última ventana con datos reales para generar la siguiente ventana (combinando datos reales más el dato pronosticado) como puntos de entrenamiento, y así sucesivamente.
