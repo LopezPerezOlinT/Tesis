@@ -1,15 +1,25 @@
-### Bitácora de Evolución del Código (Rutinas Propias)
+# Bitácora de Evolución del Código: Rutinas Propias
 
-A continuación se detalla el progreso del desarrollo, desde la implementación de la teoría básica hasta las versiones personalizadas:
+Este documento detalla el progreso en el desarrollo de nuestras implementaciones personalizadas, desde la reproducción de fundamentos teóricos hasta la creación de versiones más flexibles y robustas.
 
-* **Versión 1: Reproducción fiel del seudocódigo**
-    * **Origen:** Basado en el artículo de *Higham & Higham*.
-    * **Acceso:** [Abrir en Google Colab](Link_Aquí)
-    * **Descripción:** Implementación inicial para validar los resultados teóricos.
+El objetivo es mantener un registro claro de las mejoras, los cambios en la arquitectura y la funcionalidad de cada versión, sirviendo como guía y referencia técnica.
 
-* **Versión 2: Flexibilidad de Arquitectura**
-    * **Cambios:** Se agregaron opciones para que el usuario cambie la estructura de la red (número de capas y neuronas).
-    * **Acceso:** [Abrir en Google Colab](Link_Aquí)
-    * **Descripción:** Implementación inicial para validar los resultados teóricos.
+## Historial de Versiones
 
-> **Nota para el lector:** El código fuente original `.py` también se encuentra disponible en esta carpeta para su consulta técnica.
+### Versión 1: Implementación Base (Higham & Higham)
+- **Objetivo:** Reproducción fiel del seudocódigo.
+- **Origen:** Basado en el artículo fundamental de Higham & Higham.
+- **Funcionalidad:** Implementación inicial diseñada para validar los resultados teóricos y asegurar que nuestra base conceptual es sólida.
+- **Acceso:** [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XhGQb5qg7j2xr0YyJ6Vv8z4w9u3Kkf)
+- **Código Fuente:** El script `.py` correspondiente está disponible en esta carpeta.
+
+### Versión 2: Flexibilidad Arquitectónica
+- **Objetivo:** Generalizar la implementación para experimentación.
+- **Mejora Clave:** Se introdujeron opciones de configuración que permiten al usuario modificar la arquitectura de la red, como el **número de capas ocultas** y la **cantidad de neuronas por capa**.
+- **Funcionalidad:** Esta versión mantiene la validación teórica de la V1, pero ahora sirve como una herramienta más versátil para probar diferentes configuraciones.
+- **Acceso:** [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XhGQb5qg7j2xr0YyJ6Vv8z4w9u3Kkf)
+- **Código Fuente:** El script `.py` actualizado se encuentra en esta carpeta.
+
+---
+
+> **Nota para el lector:** Además de los enlaces a los notebooks de Colab, el código fuente original en `.py` para cada versión también se encuentra disponible en esta carpeta para una consulta técnica más detallada.
