@@ -1,4 +1,4 @@
-###Bitácora de Evolución del Código (Rutinas Propias)
+### Bitácora de Evolución del Código (Rutinas Propias)
 
 A continuación se detalla el progreso del desarrollo, desde la implementación de la teoría básica hasta las versiones personalizadas:
 
