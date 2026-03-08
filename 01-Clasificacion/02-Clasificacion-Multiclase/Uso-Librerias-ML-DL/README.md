@@ -1,4 +1,4 @@
-### Comparativa con Librerías Especializadas de Machine Learning & Deep Learning)
+### Comparativa con Librerías Especializadas de Machine Learning & Deep Learning
 
 En esta sección se utiliza el poder de frameworks comerciales para validar y contrastar los resultados obtenidos con las **Rutinas Propias**.
 # Comparativa con Librerías Especializadas de Machine Learning & Deep Learning
