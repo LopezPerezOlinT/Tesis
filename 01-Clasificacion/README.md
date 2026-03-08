@@ -1,0 +1,1 @@
+Iniciamos el trabajo partiendo del problema de clasificación de pozos petroleros que a grandes rasgos es un problema de clasificación binaria, y despues ampleamos el problema a clasificación multiclase.
