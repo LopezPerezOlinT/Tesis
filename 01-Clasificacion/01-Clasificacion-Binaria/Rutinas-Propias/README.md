@@ -1,16 +1,17 @@
 # Bitácora de Evolución del Código: Rutinas Propias
 
-Este documento detalla el progreso en el desarrollo de nuestras implementaciones personalizadas, desde la reproducción de fundamentos teóricos hasta la creación de versiones más flexibles y robustas.
+Este documento detalla el progreso en el desarrollo de mi rutina de aprendizaje profundo.
 
-El objetivo es mantener un registro claro de las mejoras, los cambios en la arquitectura y la funcionalidad de cada versión, sirviendo como guía y referencia técnica.
+El objetivo es mantener una documentación en apoyo a la tesis.
 
 ## Historial de Versiones
 
 ### Versión 1: Implementación Base (Higham & Higham)
 - **Objetivo:** Reproducción fiel del seudocódigo.
-- **Origen:** Basado en el artículo fundamental de Higham & Higham.
-- **Funcionalidad:** Implementación inicial diseñada para validar los resultados teóricos y asegurar que nuestra base conceptual es sólida.
-- **Acceso:** [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XhGQb5qg7j2xr0YyJ6Vv8z4w9u3Kkf)
+- **Origen:** Basado en el artículo Deep Learning: An Introduction
+for Applied Mathematicians de Higham & Higham.
+- **Funcionalidad:** Implementación inicial diseñada para validar los resultados teóricos y validar el algoritmo.
+- **Acceso:** [![Abrir en Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XhGQb5qg7j2xr0YyJ6Vv8z4w9u3Kkf](https://colab.research.google.com/drive/1X0aZkqoxq00aunCFmL9gRAuNDU9LM2wF?usp=sharing))
 - **Código Fuente:** El script `.py` correspondiente está disponible en esta carpeta.
 
 ### Versión 2: Flexibilidad Arquitectónica
