@@ -16,6 +16,6 @@ El objetivo principal es establecer un punto de referencia (benchmark) confiable
 - **Versión 1:** Interpolación y primer intento de extrapolación
 - **Librería usada:** tensorFlow/keras/sklearn
 - **Descripción:** Interpolación de funciones y extrapolación sin uso de ventanas deslizantes, solamente con el modelo entrenado pedirle que clasifique puntos fuera del dominio a la derecha.
-- **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ek_rtLBXVoiZOgzaKBbUXZE0imvipwf6?usp=sharing)
+- **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
