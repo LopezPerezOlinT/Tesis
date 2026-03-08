@@ -2,8 +2,6 @@
 
 Este documento detalla el progreso en el desarrollo de mi rutina de aprendizaje profundo.
 
-El objetivo es mantener una documentación en apoyo a la tesis.
-
 ## Historial de Versiones
 
 ### Versión 1: Interpolación de funciones
