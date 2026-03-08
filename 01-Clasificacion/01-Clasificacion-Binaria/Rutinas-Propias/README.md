@@ -11,7 +11,7 @@ El objetivo es mantener una documentación en apoyo a la tesis.
 - **Origen:** Basado en el artículo Deep Learning: An Introduction
 for Applied Mathematicians de Higham & Higham.
 - **Funcionalidad:** Implementación inicial diseñada para validar los resultados teóricos y validar el algoritmo.
-- **Acceso:** [![Abrir en Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XhGQb5qg7j2xr0YyJ6Vv8z4w9u3Kkf](https://colab.research.google.com/drive/1X0aZkqoxq00aunCFmL9gRAuNDU9LM2wF?usp=sharing))
+- **Acceso:** [![Abrir en Colab](https://colab.research.google.com/drive/1X0aZkqoxq00aunCFmL9gRAuNDU9LM2wF?usp=sharing)
 - **Código Fuente:** El script `.py` correspondiente está disponible en esta carpeta.
 
 ### Versión 2: Flexibilidad Arquitectónica
