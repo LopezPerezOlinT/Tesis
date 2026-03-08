@@ -13,12 +13,11 @@ El objetivo principal es establecer un punto de referencia (benchmark) confiable
 
 ## Bitácora de Pruebas y Versiones
 
-- **Versión 1:** Rutina completamente basada en el articulo Deep Learning: An Introduction
-for Applied Mathematicians de Higham & Higham, con flexibilidad de arquitectura e hiperparámetros.
-- **Librería usada:** tensorFlow
-- **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ohn15y7j_4XvEvB2HvfdQhPaOwHgCMsy?usp=sharing)
-
-- **Versión 2:** Validaciones cruzadas; flexibilidad de arquitectura e hiperparámetros; y optimizador Adam.
+- **Versión 1:** Interpolación con validación 80-20
 - **Librería usada:** tensorFlow/keras/sklearn
-- **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vCsXpA2MHDgQFUJpOhl2V6oIeFYgMZKT?usp=sharing)
+- **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sDkwopD8aMlH9M6j7eQwyXFrSUgTEERN?usp=sharing)
+
+- **Versión 2:** Interpolación & extrapolación
+- **Librería usada:** tensorFlow/keras/sklearn
+- **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15NjwkpWQMxeYdg_Fbz7z7JIUCqbfhTQe?usp=sharing)
 
