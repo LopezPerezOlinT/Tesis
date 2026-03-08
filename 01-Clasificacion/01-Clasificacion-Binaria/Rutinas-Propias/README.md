@@ -16,11 +16,17 @@ for Applied Mathematicians de Higham & Higham.
 
 ### Versión 2: Flexibilidad en su Arquitectura e hiperparámetros.
 - **Objetivo:** Variantes del resultado con dependencia en la estructura del aprendizaje.
-- **Origen:** Basado en el artículo Deep Learning: An Introduction
-for Applied Mathematicians de Higham & Higham.
 - **Funcionalidad:** Toda una gama de resultados dependiendo de la arquitectura y parámetros.
-* **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wu0Omp1VcbaF-UacLr98ULt465XTlutl?usp=sharing))
+* **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wu0Omp1VcbaF-UacLr98ULt465XTlutl?usp=sharing)
 
+
+### Versión 3: Evaluación de modelos.
+- **Objetivo:** Tener muchos resultados nos lleva a la pregunta ¿Cuál es el correcto?.
+- **Funcionalidad:** Realizamos validaciones cruzadas para evaluar el modelo, pero se puede escalar fácilmente buscando
+combinaciones de arquitecturas e hiperparámetros por mallado o por búsqueda aleatoria, incluso si encuentras un buen modelo
+puedes volver a buscar más combinaciones que se encuentren al rededor de ese modelo. Eso conlleva un costo alto 
+computacionalmente hablando y esta fuera del alcance de este trabajo.
+* **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xdM2SH58y_D_YJqXZ_K3NKGhUkVL9G64?usp=sharing))
 ---
 
 > **Nota para el lector:** Además de los enlaces a los notebooks de Colab, el código fuente original en `.py` para cada versión también se encuentra disponible en esta carpeta para una consulta técnica más detallada.
