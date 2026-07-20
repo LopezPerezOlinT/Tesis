@@ -34,7 +34,7 @@ computacionalmente hablando y esta fuera del alcance de este trabajo.
 una de ellas, y segunda condición de paro si el error es lo suficientemente pequeño.
 * **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
-### Versión 4: Rutina final Optimizada.
+### Versión 5: Rutina final Optimizada.
 - **Objetivo:** Mejorar los tiempos al reducir las operaciones.
 - **Funcionalidad:** Implementar algoritmos para aumentar la eficiencia, utilizando el optimizador Adam, inicialización
 de pesos y sesgos adecuada, para reducir la variabilidad.
