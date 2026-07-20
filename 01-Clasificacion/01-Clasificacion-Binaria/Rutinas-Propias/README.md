@@ -20,7 +20,7 @@ for Applied Mathematicians de Higham & Higham.
 * **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
-### Versión 3: Evaluación de modelos.
+### Versión 3: Evaluación de los modelos.
 - **Objetivo:** Tener muchos resultados nos lleva a la pregunta ¿Cuál es el correcto?.
 - **Funcionalidad:** Realizamos validaciones cruzadas para evaluar el modelo, pero se puede escalar fácilmente buscando
 combinaciones de arquitecturas e hiperparámetros por mallado o por búsqueda aleatoria, incluso si encuentras un buen modelo
