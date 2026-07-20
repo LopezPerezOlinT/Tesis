@@ -14,7 +14,7 @@ for Applied Mathematicians de Higham & Higham.
 * **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
-### Versión 2: Flexibilidad en su Arquitectura e hiperparámetros.
+### Versión 2: Flexibilidad en la Arquitectura de la red.
 - **Objetivo:** Variantes del resultado con dependencia en la estructura del aprendizaje.
 - **Funcionalidad:** Toda una gama de resultados dependiendo de la arquitectura y parámetros.
 * **Acceso:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
